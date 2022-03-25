@@ -1,0 +1,9 @@
+.pie-de-pagina{
+    background: #bfbfbf;
+    padding: 1.56rem 5rem;
+}
+.pie-de-pagina p {
+    text-align: right;
+    color: #fdfdfd;
+    font-size: 1.40rem;
+}
